@@ -3,15 +3,15 @@
 ## Entities of DB
 
 * ONG
-* Incident (Caso)
+* Incident
 
 ## Funcionalities
 
-* [x] Login de ONG
-* [ ] Logout de ONG (frontend)
-* [x] Cadastro de ONG
-* [x] Cadastrar novos casos
-* [x] Deletar casos
-* [x] Listar casos especificos de uma ONG
-* [x] Listar todos os casos de uma ONG
-* [ ] Entrar em contato com a ONG (WPP & email) (frontend)
+* [x] Login of ONG
+* [ ] Logout of ONG (frontend)
+* [x] Register of ONG
+* [x] Register novos incidents
+* [x] Delete incidents
+* [x] List incidents especificos of a ONG
+* [x] Listar todos os incidents of a ONG
+* [ ] Get contact with the ONG (WPP & email) (frontend)
