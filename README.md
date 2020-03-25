@@ -1,11 +1,11 @@
 # be-the-hero
 
-## Entities
+## Entities of DB
 
 * ONG
 * Incident (Caso)
 
-## Funcionalidades
+## Funcionalities
 
 * [x] Login de ONG
 * [ ] Logout de ONG (frontend)
