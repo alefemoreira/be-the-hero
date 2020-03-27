@@ -23,7 +23,7 @@ module.exports = {
     const incidents = await connection('incidents')
       .join('ongs', 'ongs.id', '=', 'incidents.ong_id')
       .limit(5)
-      .offset(page > 0 ? ( page - 1) * 5 : 0)
+      .offset((page - 1) * 5)
       .select([
         'incidents.*', 
         'ongs.name', 
