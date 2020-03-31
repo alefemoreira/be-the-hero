@@ -6,16 +6,16 @@
   🚀 Semana OmniStack 11.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefemoreira/be-the-hero?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefemoreira/be-the-hero">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alefemoreira/be-the-hero?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alefemoreira/be-the-hero">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alefemoreira/be-the-hero?style=flat-square">
+  <a href="https://github.com/alefemoreira/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alefemoreira/be-the-hero">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/alefemoreira/be-the-hero?style=flat-square">
+  <a href="https://github.com/alefemoreira/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/alefemoreira/be-the-hero">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square">
