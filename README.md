@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/alefemoreira/be-the-hero">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
